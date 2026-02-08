@@ -1,7 +1,7 @@
 # Autonomous Deep Q-Network (DQN) for LunarLander-v3
 
 ## Description
-This project implements a **Deep Q-Network (DQN)** reinforcement learning agent to solve the **LunarLander-v3** environment from **OpenAI Gymnasium**.  
+This project implements a **Deep Q-Network (DQN)** reinforcement learning agent to solve the <a href="https://www.kaggle.com/code/sherlock9/dqn-lunarlander-agent">**LunarLander-v3**<a/> environment from **OpenAI Gymnasium**.  
 The agent learns to autonomously control a lunar module, handling continuous physics dynamics to achieve a stable and fuel-efficient soft landing on the designated landing pad.
 
 The project demonstrates an end-to-end reinforcement learning pipeline, progressing from random actions to a well-trained control policy.
